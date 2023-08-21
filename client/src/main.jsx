@@ -1,13 +1,12 @@
-import React from "react";
-import ReactDOM from "react-dom";
+const React = require("react");
+const ReactDOM = require("react-dom");
 
-import App from "./App.jsx";
-import { TransactionsProvider } from "./context/TransactionContext";
-import "./index.css";
+const App = require("./App.jsx");
+const { TransactionsProvider } = require("./context/TransactionContext");
+require("./index.css");
 
 ReactDOM.render(
-  <TransactionsProvider>
-    <App />
-  </TransactionsProvider>,
+  React.createElement(TransactionsProvider, null, React.createElement(App, null)),
   document.getElementById("root")
 );
+
