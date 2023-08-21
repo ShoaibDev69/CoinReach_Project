@@ -16,4 +16,4 @@ const App = () => (
   </div>
 );
 
-export default App;
+module.exports = App;
