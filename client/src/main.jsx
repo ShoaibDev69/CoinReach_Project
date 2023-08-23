@@ -1,5 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
+const { Component } = React;
+const { render } = ReactDOM;
+
 import App from "./App";
 import { TransactionsProvider } from "./context/TransactionContext";
 import "./index.css";
