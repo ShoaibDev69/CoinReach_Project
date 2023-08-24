@@ -1,8 +1,8 @@
-const Navbar = require("./components/Navbar");
-const Welcome = require("./components/Welcome");
-const Footer = require("./components/Footer");
-const Services = require("./components/Services");
-const Transactions = require("./components/Transactions");
+import Navbar from "./components/Navbar";
+import Welcome from "./components/Welcome";
+import Footer from "./components/Footer";
+import Services from "./components/Services";
+import Transactions from "./components/Transactions";
 
 const App = () => (
   <div className="min-h-screen">
@@ -16,4 +16,4 @@ const App = () => (
   </div>
 );
 
-module.exports = App;
+export default App;
