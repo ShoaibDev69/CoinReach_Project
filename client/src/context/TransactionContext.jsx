@@ -161,8 +161,4 @@ export const TransactionsProvider = ({ children }) => {
       {children}
     </TransactionContext.Provider>
   );
-<<<<<<< HEAD
 };
-=======
-};
->>>>>>> 53cc546663eb632c3853aaf7d95a1566c9641ac5

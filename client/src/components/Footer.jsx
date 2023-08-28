@@ -9,40 +9,16 @@ const Footer = () => (
         <img src={logo} alt="logo" className="w-32" />
       </div>
       <div className="flex flex-1 justify-evenly items-center flex-wrap sm:mt-0 mt-5 w-full">
-<<<<<<< HEAD
         <p className="text-white text-base text-center mx-2 cursor-pointer">Market</p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">Exchange</p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">Tutorials</p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">Wallets</p>
-=======
-        <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Market
-        </p>
-        <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Exchange
-        </p>
-        <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Tutorials
-        </p>
-        <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Wallets
-        </p>
->>>>>>> 53cc546663eb632c3853aaf7d95a1566c9641ac5
       </div>
     </div>
 
     <div className="flex justify-center items-center flex-col mt-5">
-<<<<<<< HEAD
       <p className="text-white text-sm text-center">Come join us and hear for the unexpected miracle</p>
       <p className="text-white text-sm text-center font-medium mt-2">info@kryptomastery.com</p>
-=======
-      <p className="text-white text-sm text-center">
-        Come join us and hear for the unexpected miracle
-      </p>
-      <p className="text-white text-sm text-center font-medium mt-2">
-        info@kryptomastery.com
-      </p>
->>>>>>> 53cc546663eb632c3853aaf7d95a1566c9641ac5
     </div>
 
     <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " />

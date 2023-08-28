@@ -7,12 +7,7 @@ import { TransactionContext } from "../context/TransactionContext";
 import { shortenAddress } from "../utils/shortenAddress";
 import { Loader } from ".";
 
-<<<<<<< HEAD
 const companyCommonStyles = "min-h-[70px] sm:px-0 px-2 sm:min-w-[120px] flex justify-center items-center border-[0.5px] border-gray-400 text-sm font-light text-white";
-=======
-const companyCommonStyles =
-  "min-h-[70px] sm:px-0 px-2 sm:min-w-[120px] flex justify-center items-center border-[0.5px] border-gray-400 text-sm font-light text-white";
->>>>>>> 53cc546663eb632c3853aaf7d95a1566c9641ac5
 
 const Input = ({ placeholder, name, type, value, handleChange }) => (
   <input
@@ -26,18 +21,7 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
 );
 
 const Welcome = () => {
-<<<<<<< HEAD
   const { currentAccount, connectWallet, handleChange, sendTransaction, formData, isLoading } = useContext(TransactionContext);
-=======
-  const {
-    currentAccount,
-    connectWallet,
-    handleChange,
-    sendTransaction,
-    formData,
-    isLoading,
-  } = useContext(TransactionContext);
->>>>>>> 53cc546663eb632c3853aaf7d95a1566c9641ac5
 
   const handleSubmit = (e) => {
     const { addressTo, amount, keyword, message } = formData;
@@ -57,12 +41,7 @@ const Welcome = () => {
             Send Crypto <br /> across the world
           </h1>
           <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
-<<<<<<< HEAD
             Explore the crypto world. Buy and sell cryptocurrencies easily on Krypto.
-=======
-            Explore the crypto world. Buy and sell cryptocurrencies easily on
-            Krypto.
->>>>>>> 53cc546663eb632c3853aaf7d95a1566c9641ac5
           </p>
           {!currentAccount && (
             <button
@@ -115,7 +94,6 @@ const Welcome = () => {
             </div>
           </div>
           <div className="p-5 sm:w-96 w-full flex flex-col justify-start items-center blue-glassmorphism">
-<<<<<<< HEAD
             <Input placeholder="Address To" name="addressTo" type="text" handleChange={handleChange} />
             <Input placeholder="Amount (ETH)" name="amount" type="number" handleChange={handleChange} />
             <Input placeholder="Keyword (Gif)" name="keyword" type="text" handleChange={handleChange} />
@@ -134,46 +112,6 @@ const Welcome = () => {
                   Send now
                 </button>
               )}
-=======
-            <Input
-              placeholder="Address To"
-              name="addressTo"
-              type="text"
-              handleChange={handleChange}
-            />
-            <Input
-              placeholder="Amount (ETH)"
-              name="amount"
-              type="number"
-              handleChange={handleChange}
-            />
-            <Input
-              placeholder="Keyword (Gif)"
-              name="keyword"
-              type="text"
-              handleChange={handleChange}
-            />
-            <Input
-              placeholder="Enter Message"
-              name="message"
-              type="text"
-              handleChange={handleChange}
-            />
-
-            <div className="h-[1px] w-full bg-gray-400 my-2" />
-
-            {isLoading ? (
-              <Loader />
-            ) : (
-              <button
-                type="button"
-                onClick={handleSubmit}
-                className="text-white w-full mt-2 border-[1px] p-2 border-[#3d4f7c] hover:bg-[#3d4f7c] rounded-full cursor-pointer"
-              >
-                Send now
-              </button>
-            )}
->>>>>>> 53cc546663eb632c3853aaf7d95a1566c9641ac5
           </div>
         </div>
       </div>
