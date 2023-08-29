@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/client/(.*)",
-      "dest": "/client/index.html"
+      "dest": "/client/package.json"
     }
   ]
 }
