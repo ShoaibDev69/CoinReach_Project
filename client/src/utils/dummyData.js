@@ -5,7 +5,7 @@ export default [
     message: "",
     timestamp: "05/09/2023, 1:12:56 AM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
-    amount: "0.01",
+    amount: "0.03",
     addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
   },
   {
@@ -23,7 +23,7 @@ export default [
     message: "",
     timestamp: "04/09/2023, 7:12:14 PM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
-    amount: "0.01",
+    amount: "0.09",
     addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
   },
   {
@@ -32,7 +32,7 @@ export default [
     message: "",
     timestamp: "21/08/2023, 1:39:23 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
-    amount: "0.01",
+    amount: "0.02",
     addressTo: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
   },
   {
@@ -41,7 +41,7 @@ export default [
     message: "",
     timestamp: "17/08/2023, 4:33:21 PM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
-    amount: "0.01",
+    amount: "0.06",
     addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
   },
   {
@@ -50,7 +50,7 @@ export default [
     message: "",
     timestamp: "11/08/2023, 9:53:21 PM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
-    amount: "0.01",
+    amount: "0.08",
     addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
   },
 ];
