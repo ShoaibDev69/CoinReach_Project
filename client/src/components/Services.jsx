@@ -5,14 +5,14 @@ import { RiHeart2Fill } from "react-icons/ri";
 
 const ServiceCard = ({ color, title, icon, subtitle }) => (
   <div className="flex flex-row justify-start items-start white-glassmorphism p-3 m-2 cursor-pointer hover:shadow-xl">
-    <div className={`w-10 h-10 rounded-full flex justify-center items-center ${color}`}>
+    <div
+      className={`w-10 h-10 rounded-full flex justify-center items-center ${color}`}
+    >
       {icon}
     </div>
     <div className="ml-5 flex flex-col flex-1">
       <h3 className="mt-2 text-white text-lg">{title}</h3>
-      <p className="mt-1 text-white text-sm md:w-9/12">
-        {subtitle}
-      </p>
+      <p className="mt-1 text-white text-sm md:w-9/12">{subtitle}</p>
     </div>
   </div>
 );
@@ -27,29 +27,30 @@ const Services = () => (
           continue to improve
         </h1>
         <p className="text-left my-2 text-white font-light md:w-9/12 w-11/12 text-base">
-          The best choice for buying and selling your crypto assets, with the
-          various super friendly services we offer
+          The ultimate platform for seamlessly managing your crypto assets,
+          featuring elegant wallet integration, an Ethereum card interface, and
+          swift, secure transactions.
         </p>
       </div>
 
       <div className="flex-1 flex flex-col justify-start items-center">
         <ServiceCard
           color="bg-[#2952E3]"
-          title="Security gurantee"
+          title="Seamless Crypto Wallet Integration"
           icon={<BsShieldFillCheck fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Effortlessly link your wallet, view your Ethereum address, and manage transactions within a stylish interface."
         />
         <ServiceCard
           color="bg-[#8945F8]"
-          title="Best exchange rates"
+          title="Elegant Ethereum Card Creation"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Craft personalized Ethereum cards with your wallet address, ready to send crypto securely with optional messages."
         />
         <ServiceCard
           color="bg-[#F84550]"
-          title="Fastest transactions"
+          title="Swift and Secure Transactions"
           icon={<RiHeart2Fill fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Benefit from faster transaction processing while maintaining top-notch security when sending Ethereum to recipients using our platform."
         />
       </div>
     </div>
