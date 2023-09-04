@@ -28,7 +28,7 @@ export default [
   },
   {
     id: 4,
-    url: "https://i.pinimg.com/originals/68/a0/9e/68a09e774e98242871c2db0f99307420.gif",
+    url: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWo4bXc5aTllcG92ejN3dW40ZGZuOGt1ZmFsM25ucWhwMmMwY3E1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpBOyq7Px0qV3bZpp9/giphy.gif",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -37,7 +37,7 @@ export default [
   },
   {
     id: 5,
-    url: "https://i.pinimg.com/originals/73/d3/a1/73d3a14d212314ab1f7268b71d639c15.gif",
+    url: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDh0emI4dG9wZnowMDgxOXR0Z29idXZ3Z3UxNWpraHgzMnRvcm5wayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TmTOZlAYc2vnSoQe64/giphy-downsized-large.gif",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -46,7 +46,7 @@ export default [
   },
   {
     id: 6,
-    url: "https://www.omnisend.com/blog/wp-content/uploads/2016/09/funny-gifs-9.gif",
+    url: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F2emVmemNoN2Z0ZnZocDMyZ2c1OTd0MWdpMHJ2OTJtN2xzbWlkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SfdNPSXWGsIJM2nrs/giphy-downsized-large.gif",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
