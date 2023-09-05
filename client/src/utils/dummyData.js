@@ -48,7 +48,7 @@ export default [
     id: 6,
     url: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F2emVmemNoN2Z0ZnZocDMyZ2c1OTd0MWdpMHJ2OTJtN2xzbWlkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SfdNPSXWGsIJM2nrs/giphy-downsized-large.gif",
     message: "",
-    timestamp: "11/08/2023, 9:53:21 PM",
+    timestamp: "11/08/2023, 9:53:21 AM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
     amount: "0.08",
     addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
