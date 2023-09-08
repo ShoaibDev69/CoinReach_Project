@@ -1,7 +1,7 @@
 <!--# CoinReach - Web 3.0 Blockchain Application
 
 ![CoinReach](https://i.ibb.co/DVF4tNW/image.png)-->
-# CoinReach
+# **CoinReach** 
 
 ![Project Logo](https://github.com/ShoaibDev69/CoinReach_Project/assets/124503086/73af6449-1f35-423d-9f6c-1ba406f18de3)
 
