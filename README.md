@@ -11,13 +11,6 @@ CoinReach could simply a platform or service that enables the far-reaching trans
 
 ![Project_ScreenShot](https://github.com/ShoaibDev69/CoinReach_Project/assets/124503086/c36efcef-aed0-4f7a-9878-580acf277929)
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
