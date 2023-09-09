@@ -28,7 +28,7 @@ git clone https://github.com/ShoaibDev69/CoinReach_Project.git
 cd CoinReach_Project
 ```
 
-3. Change directory from **CoinReach_Project** to **client** Folder the Run this command in the terminal
+3. Change directory from **CoinReach_Project** to **client** Folder then Run this command in the terminal
 ```bash
 npm install
 ```
