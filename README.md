@@ -10,16 +10,17 @@ swift, secure transactions.
 
 ## Services that we continue to improve
 
-1. *Effortlessly link your wallet, view your Ethereum address, and manage transactions within a stylish interface.*
+1. _Effortlessly link your wallet, view your Ethereum address, and manage transactions within a stylish interface._
 
-2. *Craft personalized Ethereum cards with your wallet address, ready to send crypto securely with optional messages.*
+2. _Craft personalized Ethereum cards with your wallet address, ready to send crypto securely with optional messages._
 
-3. *Benefit from faster transaction processing while maintaining top-notch security when sending Ethereum to recipients using our platform.*
+3. _Benefit from faster transaction processing while maintaining top-notch security when sending Ethereum to recipients using our platform._
 
 ## Installation
 
 ```bash
 git clone https://github.com/ShoaibDev69/CoinReach_Project.git
+```
+
 cd CoinReach_Project
 npm install
-```
