@@ -18,9 +18,17 @@ swift, secure transactions.
 
 ## Installation
 
+1. Clone this Project Repository
 ```bash
 git clone https://github.com/ShoaibDev69/CoinReach_Project.git
 ```
 
+2. Change Directory to **CoinReach_Project**
+```bash
 cd CoinReach_Project
+```
+
+3. Change directory from **CoinReach_Project** to **client** Folder the Run this command in the terminal
+```bash
 npm install
+```
