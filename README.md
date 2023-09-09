@@ -11,6 +11,7 @@ swift, secure transactions.
 ## Services that we continue to improve
 
 1. Effortlessly link your wallet, view your Ethereum address, and manage transactions within a stylish interface.
+2. Craft personalized Ethereum cards with your wallet address, ready to send crypto securely with optional messages.
 
 ## Installation
 
