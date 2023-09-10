@@ -83,7 +83,7 @@ const Navbar = () => {
           { title: "Exchange", to: "/exchange", external: false }, // Internal route
           { title: "Tutorials", to: "/tutorials", external: false }, // Internal route
           { title: "Wallets", to: "/wallets", external: false }, // Internal route
-          { title: "External Link", to: "https://example.com", external: true }, // External URL
+          { title: "External Link", to: "https://www.coindesk.com/", external: true }, // External URL
         ].map((item, index) => (
           <NavBarItem
             key={item.title + index}
