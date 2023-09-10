@@ -33,7 +33,7 @@ const Footer = () => (
       </p>
     </div>
 
-    <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " />
+    {/* <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " /> */}
   </div>
 );
 
