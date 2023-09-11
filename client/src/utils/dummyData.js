@@ -5,7 +5,7 @@ export default [
     message: "",
     timestamp: "05/09/2023, 10:12:56 AM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
-    amount: "0.03",
+    amount: "0.0036",
     addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
   },
   {
