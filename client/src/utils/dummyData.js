@@ -32,7 +32,7 @@ export default [
     message: "",
     timestamp: "21/08/2023, 1:56:23 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
-    amount: "0.02",
+    amount: "0.0029",
     addressTo: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
   },
   {
