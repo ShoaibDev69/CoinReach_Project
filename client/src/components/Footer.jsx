@@ -29,7 +29,7 @@ const Footer = () => (
         Come join us and hear for the unexpected miracle
       </p>
       <p className="text-white text-sm text-center font-medium mt-2">
-        <a href="https://github.com/ShoaibDev69/CoinReach_Project.git" target="_blank">ShoaibDev69_GitHub</a>
+        <a href="https://github.com/ShoaibDev69/CoinReach_Project.git" target="_blank">Shoaib - Developer of CoinReach</a>
       </p>
     </div>
 
