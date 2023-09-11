@@ -12,9 +12,9 @@ export default [
     id: 2,
     url: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM5dm9zMTBxYjJ0YWxhbjhscjVuNjQ3ZmdlamdyZWgxdG5penMweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIsh5fnhkJobkXdPeY/giphy-downsized-large.gif",
     message: "",
-    timestamp: "04/09/2023, 11:22:21 PM",
+    timestamp: "04/09/2023, 11:32:24 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
-    amount: "0.01",
+    amount: "0.0018",
     addressTo: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
   },
   {
