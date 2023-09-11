@@ -41,8 +41,8 @@ export default [
     message: "",
     timestamp: "17/08/2023, 4:39:21 PM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
-    amount: "0.06",
-    addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
+    amount: "0.0065",
+    addressTo: "0x8aa395Ab97837276aF9cd6946C79024ef1acfdbE",
   },
   {
     id: 6,
