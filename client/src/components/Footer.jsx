@@ -19,7 +19,7 @@ const Footer = () => (
           <a href="https://university.alchemy.com/" target="_blank">Tutorials</a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Wallets
+          <a href="https://crypto.com/university/crypto-wallets" target="_blank">Wallets</a>
         </p>
       </div>
     </div>
