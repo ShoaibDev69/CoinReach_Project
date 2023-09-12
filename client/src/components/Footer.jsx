@@ -16,7 +16,7 @@ const Footer = () => (
           <a href="https://cointelegraph.com/tags/cryptocurrency-exchange" target="_blank">Exchange</a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Tutorials
+          <a href="https://university.alchemy.com/" target="_blank">Tutorials</a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
           Wallets
