@@ -52,26 +52,12 @@ const Footer = () => (
         </a>
       </p>
       <p className="text-white text-sm text-center font-medium mt-2">
-        {/* <a
+        <a
           href="https://github.com/ShoaibDev69/CoinReach_Project.git"
           target="_blank"
-        > */}
-        <a
-          href="https://github.com/ShoaibDev69/CoinReach_Project"
-          target="_blank"
-          class="underline-link"
         >
-          Project Repository
+          Shoaib - Developer of CoinReach
         </a>
-        <button>
-          <a
-            href="https://github.com/ShoaibDev69/CoinReach_Project"
-            target="_blank"
-          >
-            Contribute Now
-          </a>
-        </button>
-        Shoaib - Developer of CoinReach
       </p>
     </div>
 
