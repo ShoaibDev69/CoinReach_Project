@@ -40,7 +40,7 @@ const Footer = () => (
 
     <div className="flex justify-center items-center flex-col mt-5">
       <p className="text-white text-sm text-center">
-        Come join us and hear for the unexpected miracle
+        Contribute via Project Repository Below
       </p>
       <p className="text-white text-sm text-center">
         <a
