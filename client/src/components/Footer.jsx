@@ -13,7 +13,7 @@ const Footer = () => (
           <a href="https://www.blockchaintechnology-news.com/" target="_blank">Market</a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          Exchange
+          <a href="https://cointelegraph.com/tags/cryptocurrency-exchange" target="_blank">Exchange</a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
           Tutorials
