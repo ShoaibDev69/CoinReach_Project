@@ -42,6 +42,15 @@ const Footer = () => (
       <p className="text-white text-sm text-center">
         Come join us and hear for the unexpected miracle
       </p>
+      <p className="text-white text-sm text-center">
+        <a
+          href="https://github.com/ShoaibDev69/CoinReach_Project"
+          target="_blank"
+          class="underline-link"
+        >
+          Project Repository
+        </a>
+      </p>
       <p className="text-white text-sm text-center font-medium mt-2">
         <a
           href="https://github.com/ShoaibDev69/CoinReach_Project.git"
