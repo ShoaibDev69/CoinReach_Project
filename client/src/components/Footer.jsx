@@ -10,16 +10,30 @@ const Footer = () => (
       </div>
       <div className="flex flex-1 justify-evenly items-center flex-wrap sm:mt-0 mt-5 w-full">
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          <a href="https://www.blockchaintechnology-news.com/" target="_blank">Market</a>
+          <a href="https://www.blockchaintechnology-news.com/" target="_blank">
+            Market
+          </a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          <a href="https://cointelegraph.com/tags/cryptocurrency-exchange" target="_blank">Exchange</a>
+          <a
+            href="https://cointelegraph.com/tags/cryptocurrency-exchange"
+            target="_blank"
+          >
+            Exchange
+          </a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          <a href="https://university.alchemy.com/" target="_blank">Tutorials</a>
+          <a href="https://university.alchemy.com/" target="_blank">
+            Tutorials
+          </a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
-          <a href="https://crypto.com/university/crypto-wallets" target="_blank">Wallets</a>
+          <a
+            href="https://crypto.com/university/crypto-wallets"
+            target="_blank"
+          >
+            Wallets
+          </a>
         </p>
       </div>
     </div>
@@ -29,7 +43,12 @@ const Footer = () => (
         Come join us and hear for the unexpected miracle
       </p>
       <p className="text-white text-sm text-center font-medium mt-2">
-        <a href="https://github.com/ShoaibDev69/CoinReach_Project.git" target="_blank">Shoaib - Developer of CoinReach</a>
+        <a
+          href="https://github.com/ShoaibDev69/CoinReach_Project.git"
+          target="_blank"
+        >
+          Shoaib - Developer of CoinReach
+        </a>
       </p>
     </div>
 
