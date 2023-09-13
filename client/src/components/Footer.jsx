@@ -48,7 +48,8 @@ const Footer = () => (
           target="_blank"
           class="underline-link"
         >
-          CoinReach Project Repository
+          CoinReach Project Repository -
+          https://github.com/ShoaibDev69/CoinReach_Project
         </a>
       </p>
       <p className="text-white text-sm text-center font-medium mt-2">
