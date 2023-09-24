@@ -103,7 +103,7 @@ export default [
   },
   {
     id: 6,
-    url: "https://static.wixstatic.com/media/a6b7b4_208ff63a0ed44c8cb411077d3377d882~mv2.gif",
+    url: "https://i.pinimg.com/originals/a4/15/54/a415545bb9a81e35d09b2fc184e2e801.gif",
     message: "",
     timestamp: "11/08/2023, 9:57:21 AM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
