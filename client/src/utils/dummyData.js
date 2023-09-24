@@ -58,7 +58,7 @@
 export default [
   {
     id: 1,
-    url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F5848922-Blockchain-Illustration&psig=AOvVaw2oXjhBL3F4zHbWYHWHPFSB&ust=1695645970343000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj_rMCkw4EDFQAAAAAdAAAAABAE",
+    url: "https://cdn.dribbble.com/users/2106492/screenshots/5848922/media/ed9605712bc8002a3bc85c5c7d662144.gif",
     message: "",
     timestamp: "05/09/2023, 10:12:56 AM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
