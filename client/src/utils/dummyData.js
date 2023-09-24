@@ -76,7 +76,7 @@ export default [
   },
   {
     id: 3,
-    url: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl1d3M4dDZzNXBmMXluanZrbTR2eW1wejNzbWJrcGw1azUxMzJtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sgQ98jT5A8eV23p5SR/giphy-downsized-large.gif",
+    url: "https://i.pinimg.com/originals/a4/15/54/a415545bb9a81e35d09b2fc184e2e801.gif",
     message: "",
     timestamp: "04/09/2023, 7:12:14 PM",
     addressFrom: "0x376902114964B34A88E5fdD8eC34113178A14fa2",
