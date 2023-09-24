@@ -103,7 +103,7 @@ export default [
   },
   {
     id: 6,
-    url: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3F2emVmemNoN2Z0ZnZocDMyZ2c1OTd0MWdpMHJ2OTJtN2xzbWlkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2SfdNPSXWGsIJM2nrs/giphy-downsized-large.gif",
+    url: "https://static.wixstatic.com/media/a6b7b4_208ff63a0ed44c8cb411077d3377d882~mv2.gif",
     message: "",
     timestamp: "11/08/2023, 9:57:21 AM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
