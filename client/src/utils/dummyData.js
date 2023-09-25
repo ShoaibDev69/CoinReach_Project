@@ -55,6 +55,7 @@
 //   },
 // ];
 
+// New GIF's for Latest Transaction 
 export default [
   {
     id: 1,
