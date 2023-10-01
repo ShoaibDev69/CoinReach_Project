@@ -52,15 +52,18 @@
     </div>
 
     <!-- Your Main Website Content -->
-    <div id="root">
-      <script type="module" src="/src/main.jsx"></script>
-    </div>
+    <div id="root"></div>
 
     <!-- JavaScript to hide the logo page and show the main content after a delay -->
     <script>
       setTimeout(function () {
         document.getElementById("logoPage").style.display = "none";
       }, 3000); // 3000 milliseconds = 3 seconds
+    </script>
+
+    <!-- Load your main.jsx script that should render the website content -->
+    <script type="module">
+      import "/src/main.jsx"; // Adjust the path to your main.jsx script
     </script>
   </body>
 </html>
