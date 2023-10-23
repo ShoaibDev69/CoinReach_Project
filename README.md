@@ -85,3 +85,9 @@ cd CoinReach_Project
 ```bash
 npm install
 ```
+
+4. Start the application
+
+```bash
+npm start
+```
