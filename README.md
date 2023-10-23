@@ -16,6 +16,54 @@ swift, secure transactions.
 
 3. _Benefit from faster transaction processing while maintaining top-notch security when sending Ethereum to recipients using our platform._
 
+## Folder Structure
+
+This repository follows a structured organization of files and directories to help you easily navigate and understand the project's components. Below is an overview of the folder structure:
+
+```bash
+📦 root
+ ┣ 📂 client
+ ┃ ┣ 📂 images
+ ┃ ┃ ┣ 📜 animated.svg
+ ┃ ┃ ┣ 📜 hello.svg
+ ┃ ┃ ┗ 📜 logo.svg
+ ┃ ┣ 📂 src
+ ┃ ┃ ┣ 📂 components
+ ┃ ┃ ┃ ┣ 📜 Footer.jsx
+ ┃ ┃ ┃ ┣ 📜 Loader.jsx
+ ┃ ┃ ┃ ┣ 📜 Navbar.jsx
+ ┃ ┃ ┃ ┣ 📜 Services.jsx
+ ┃ ┃ ┃ ┣ 📜 Transactions.jsx
+ ┃ ┃ ┃ ┗ 📜 Welcome.jsx
+ ┃ ┃ ┣ 📂 context
+ ┃ ┃ ┃ ┗ 📜 TransactionContext.jsx
+ ┃ ┃ ┣ 📂 hooks
+ ┃ ┃ ┃ ┗ 📜 useFetch.jsx
+ ┃ ┃ ┣ 📂 utils
+ ┃ ┃ ┃ ┣ 📜 Transactions.json
+ ┃ ┃ ┃ ┣ 📜 constants.js
+ ┃ ┃ ┃ ┣ 📜 dummyData.js
+ ┃ ┃ ┃ ┣ 📜 shortenAddress.js
+ ┃ ┃ ┣ 📜 App.jsx
+ ┃ ┃ ┣ 📜 favicon.svg
+ ┃ ┃ ┣ 📜 index.css
+ ┃ ┃ ┣ 📜 logo.svg
+ ┃ ┃ ┗ 📜 main.jsx
+ ┣ 📂 smart_contract
+ ┃ ┣ 📂 contracts
+ ┃ ┃ ┗ 📜 Transactions.sol
+ ┃ ┣ 📂 scripts
+ ┃ ┃ ┗ 📜 deploy.js
+ ┃ ┣ 📂 test
+ ┃ ┃ ┗ 📜 sample-test.js
+ ┃ ┣ 📜 .gitignore
+ ┃ ┣ 📜 README.md
+ ┃ ┣ 📜 hardhat.config.js
+ ┃ ┣ 📜 package-lock.json
+ ┃ ┗ 📜 package.json
+ ┣ 📜 README.md
+```
+
 ## Installation
 
 1. Clone the repository
@@ -36,11 +84,4 @@ cd CoinReach_Project
 
 ```bash
 npm install
-```
-
-
-4. Start the application
-
-```bash
-npm start
 ```
