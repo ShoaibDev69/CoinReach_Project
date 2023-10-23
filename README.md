@@ -80,7 +80,7 @@ cd CoinReach_Project
 ```
 
 
-3. Install dependencies
+3. Install dependencies in client folder
 
 ```bash
 npm install
