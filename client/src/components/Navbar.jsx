@@ -75,7 +75,7 @@ const Navbar = () => {
                 url: "https://www.blockchaintechnology-news.com/",
               },
               {
-                title: "Exchange",
+                title: "Exchanges",
                 url: "https://cointelegraph.com/tags/cryptocurrency-exchange",
               },
               { title: "Tutorials", url: "https://university.alchemy.com/" },
