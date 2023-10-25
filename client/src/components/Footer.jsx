@@ -19,7 +19,7 @@ const Footer = () => (
             href="https://cointelegraph.com/tags/cryptocurrency-exchange"
             target="_blank"
           >
-            Exchange
+            Exchanges
           </a>
         </p>
         <p className="text-white text-base text-center mx-2 cursor-pointer">
