@@ -91,3 +91,38 @@ npm install
 ```bash
 npm start
 ```
+5. Install dependencies in smart_contract folder
+
+```bash
+npm install
+```
+
+6. Start the application
+
+```bash
+npx hardhat run scripts/deploy.js --network localhost
+```
+
+## Tech Stack
+
+- [React](https://reactjs.org/)
+- [Hardhat](https://hardhat.org/)
+- [Ethers.js](https://docs.ethers.io/v5/)
+- [Web3Modal]
+- [Vercel](https://vercel.com/)
+- [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Figma](https://www.figma.com/)
+- [Vite](https://vitejs.dev/)
+- [Etherscan](https://etherscan.io/)
+- [Metamask](https://metamask.io/)
+- [Infura](https://infura.io/)
+- [Alchemy](https://www.alchemy.com/)
+- [OpenZeppelin](https://openzeppelin.com/)
+- [React Router](https://reactrouter.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [React Spinners](https://www.npmjs.com/package/react-spinners)
+- [React Scripts](https://www.npmjs.com/package/react-scripts)
+- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
+- [React Scripts](https://www.npmjs.com/package/react-scripts)
