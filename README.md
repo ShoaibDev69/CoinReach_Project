@@ -72,13 +72,11 @@ This repository follows a structured organization of files and directories to he
 git clone https://github.com/ShoaibDev69/CoinReach_Project.git
 ```
 
-
 2. Move into the project directory
 
 ```bash
 cd CoinReach_Project
 ```
-
 
 3. Install dependencies in client folder
 
@@ -91,6 +89,7 @@ npm install
 ```bash
 npm start
 ```
+
 5. Install dependencies in smart_contract folder
 
 ```bash
