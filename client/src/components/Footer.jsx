@@ -40,7 +40,7 @@ const Footer = () => (
 
     <div className="flex justify-center items-center flex-col mt-5">
       <p className="text-white text-sm text-center">
-        Contribute via Project Repository link Below
+        Contribute via Project Repository link Below 👇 
       </p>
       <p className="text-white text-sm text-center">
         <a
@@ -56,7 +56,7 @@ const Footer = () => (
           href="https://github.com/ShoaibDev69/CoinReach_Project.git"
           target="_blank"
         >
-          Shoaib Khan - Developer of CoinReach
+          Shoaib Khan - Developer of CoinReach Project 
         </a>
       </p>
     </div>
