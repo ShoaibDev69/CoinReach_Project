@@ -44,19 +44,7 @@ const Footer = () => (
           target="_blank"
           className="underline-link"
         >
-          GitHub Copilot: If you want to replace the text "GitHub Link" with
-          something else, you could consider the following options: 1. "Project
-          Source Code" 2. "View on GitHub" 3. "Source Code Repository" 4.
-          "Project Repository" Here's how you can replace it: ```javascriptreact
-          <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            <a
-              href="https://github.com/ShoaibDev69/CoinReach_Project"
-              target="_blank"
-              className="underline-link"
-            >
-              Project Source Code
-            </a>
-          </button>
+          Project Source Code
         </a>
       </button>
       <p className="text-white text-sm text-center font-medium mt-2">
