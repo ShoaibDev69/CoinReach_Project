@@ -1,5 +1,4 @@
 import React from "react";
-
 import logo from "../../images/logo.svg";
 
 const Footer = () => (
@@ -39,18 +38,15 @@ const Footer = () => (
     </div>
 
     <div className="flex justify-center items-center flex-col mt-5">
-      <p className="text-white text-sm text-center">
-        Contribute via Project Repository link Below 👇
-      </p>
-      <p className="text-white text-sm text-center">
+      <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
         <a
           href="https://github.com/ShoaibDev69/CoinReach_Project"
           target="_blank"
-          class="underline-link"
+          className="underline-link"
         >
-          https://github.com/ShoaibDev69/CoinReach_Project
+          GitHub Link
         </a>
-      </p>
+      </button>
       <p className="text-white text-sm text-center font-medium mt-2">
         <a
           href="https://github.com/ShoaibDev69/CoinReach_Project.git"
