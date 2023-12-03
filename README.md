@@ -112,3 +112,10 @@ npx hardhat run scripts/deploy.js --network localhost
 - Ethereum
 - Git
 - GitHub
+
+## What we learned ?
+
+- How to use React Context API
+- How to use Web3.js library to interact with Ethereum blockchain and smart contracts deployed on it from a web application using Metamask wallet extension for browsers.
+- How to use Solidity
+- How to use Hardhat
