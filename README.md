@@ -121,4 +121,4 @@ npx hardhat run scripts/deploy.js --network localhost
 
 - How to use Solidity programming language to write smart contracts for Ethereum blockchain. We used Solidity to write a smart contract that stores the transactions made by the user on the blockchain. 
 
-- How to use Hardhat
+- How to use Hardhat to compile, deploy and test smart contracts on Ethereum blockchain. We used Hardhat to compile and deploy the smart contract on the local blockchain. 
