@@ -101,3 +101,17 @@ npm install
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
+
+## Tech Stack
+
+- React
+- Solidity
+- Hardhat
+- Web3.js
+- Vercel
+- Ethereum
+- Chakra UI
+- Figma
+- Vercel
+- Git
+- GitHub
