@@ -110,7 +110,5 @@ npx hardhat run scripts/deploy.js --network localhost
 - Web3.js
 - Vercel
 - Ethereum
-- Figma
-- Vercel
 - Git
 - GitHub
