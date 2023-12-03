@@ -115,7 +115,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 ## What we learned ?
 
-- How to use React Context API
+- How to use React Context API to manage global state in a React application. We used the Context API to pass the wallet address to the Ethereum card component. We also used it to pass the transactions to the transactions component. 
 - How to use Web3.js library to interact with Ethereum blockchain and smart contracts deployed on it from a web application using Metamask wallet extension for browsers.
 - How to use Solidity
 - How to use Hardhat
