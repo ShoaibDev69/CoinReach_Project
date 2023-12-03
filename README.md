@@ -119,5 +119,6 @@ npx hardhat run scripts/deploy.js --network localhost
 
 - How to use Web3.js library to interact with Ethereum blockchain and smart contracts deployed on it from a web application using Metamask wallet extension for browsers.
 
-- How to use Solidity
+- How to use Solidity programming language to write smart contracts for Ethereum blockchain. We used Solidity to write a smart contract that stores the transactions made by the user on the blockchain. 
+
 - How to use Hardhat
