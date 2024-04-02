@@ -48,7 +48,7 @@ export default [
     id: 6,
     url: "https://static.wixstatic.com/media/a6b7b4_208ff63a0ed44c8cb411077d3377d882~mv2.gif",
     message: "",
-    timestamp: "01/03/2024, 9:57:21 AM",
+    timestamp: "01/04/2024, 9:57:21 AM",
     addressFrom: "0x376902114964B34A88E5fdD7eC34113178A14fa2",
     amount: "0.0085",
     addressTo: "0x8aa395Ab97837576aF9cd6946C79024ef1acfdbE",
