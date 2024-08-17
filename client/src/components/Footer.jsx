@@ -52,7 +52,7 @@ const Footer = () => (
           href="https://github.com/ShoaibDev69/CoinReach_Project.git"
           target="_blank"
         >
-          CoinReach Project by Shoaib Khan
+          CoinReach Project by Shoaib.ETH
         </a>
       </p>
     </div>
